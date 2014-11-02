@@ -1,0 +1,25 @@
+body {
+    min-height: 2000px;
+    padding-top: 50px;
+}
+.main {
+    position: relative;
+}
+.navbar-inverse {
+    background: #000 none;
+}
+.navbar a {
+    color: #fff;
+}
+
+.about {
+    background-color: #0D4D4D;
+    color: #fff;
+    padding-top: 20px;
+}
+.about h1 {
+    margin-top: 10px;
+}
+.about .photo {
+    text-align: center;
+}
