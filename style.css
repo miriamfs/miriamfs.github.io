@@ -2,6 +2,14 @@ body {
     min-height: 2000px;
     padding-top: 50px;
 }
+a {
+    color: #D4B16A;
+}
+a:hover {
+    color: #0D4D4D;
+    text-decoration: none;
+}
+
 .main {
     position: relative;
 }
@@ -22,4 +30,21 @@ body {
 }
 .about .photo {
     text-align: center;
+}
+
+h3 {
+    border-bottom: 1px solid #801515;
+    color: #801515;
+}
+
+.publication .title {
+    color: #0D4D4D;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.publication .title a {
+    margin-left: 10px;
+}
+.publication {
+    margin-bottom: 1em;
 }
