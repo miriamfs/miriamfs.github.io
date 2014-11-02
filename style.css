@@ -38,15 +38,18 @@ h3 {
 }
 
 .publication .title,
-.talk .title {
+.talk .title,
+.project .title {
     color: #0D4D4D;
     font-weight: bold;
     font-size: 1.2em;
 }
-.publication .title a {
+.publication .title a,
+.project .title a {
     margin-left: 10px;
 }
 .publication,
-.talk {
+.talk,
+.project {
     margin-bottom: 1em;
 }
