@@ -39,17 +39,21 @@ h3 {
 
 .publication .title,
 .talk .title,
-.project .title {
+.project .title,
+.organising-committee .role {
     color: #0D4D4D;
     font-weight: bold;
     font-size: 1.2em;
 }
 .publication .title a,
-.project .title a {
+.project .title a,
+.organising-committee a,
+.program-committees li a {
     margin-left: 10px;
 }
 .publication,
 .talk,
-.project {
+.project,
+.organising-committee {
     margin-bottom: 1em;
 }
