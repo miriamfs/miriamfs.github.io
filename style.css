@@ -37,7 +37,8 @@ h3 {
     color: #801515;
 }
 
-.publication .title {
+.publication .title,
+.talk .title {
     color: #0D4D4D;
     font-weight: bold;
     font-size: 1.2em;
@@ -45,6 +46,7 @@ h3 {
 .publication .title a {
     margin-left: 10px;
 }
-.publication {
+.publication,
+.talk {
     margin-bottom: 1em;
 }
